@@ -118,6 +118,5 @@ Participants:
 [DataRefuge Slack]: https://datarefuge.slack.com
 [Data Rescue event]: http://www.ppehlab.org/what-is-a-datarescue-event
 [Data Refuge]: https://www.datarefuge.org/
-[GitHub]: https://github.com/datarefugephilly/datarescue-dc
-[markdown]: https://github.com/datarefugephilly/datarescue-dc/blob/master/index.md
-
+[GitHub]: https://github.com/datarefuge/datarescue-dc 
+[markdown]: https://github.com/datarefuge/datarescue-dc/blob/master/index.md
