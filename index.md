@@ -19,9 +19,10 @@ model](https://github.com/datarefugephilly/workflow/blob/master/README.md)
 developed at the first DataRescue event in Philadelphia, and which has been
 further refined at events in Los Angeles, Chicago and Ann Arbor.
 
-Whether you are a researcher who actively uses federal datasets, or someone who
-values the data publishing work the federal government does we'd love for you to
-be involved.
+Whether you are a researcher who actively uses federal datasets, someone who
+values the data publishing work the federal government, a software developer,
+designer, or writer who we've got work for you to do, and would love for you 
+to be involved.
 
 ## Schedule
 
