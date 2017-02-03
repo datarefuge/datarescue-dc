@@ -81,6 +81,7 @@ Participants:
 Guide(s): 
 
 Participants:
+
 * Elizabeth England
 
 ### Describer
@@ -88,6 +89,7 @@ Participants:
 Guide(s): Joseph Koivisto
 
 Participants:
+
 * Beth DeBold
 
 ### Storytelling/Documenting
@@ -95,7 +97,8 @@ Participants:
 Guide(s):
 
 Participants:
-* Annalisa Dias - coordinating artists to be involved day-of
+
+* Annalisa Dias
 
 ## Collaborators
 
