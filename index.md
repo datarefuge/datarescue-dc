@@ -78,10 +78,10 @@ Participants:
 
 ### Bagger
 
-Guide(s): Elizabeth England
+Guide(s): 
 
 Participants:
-
+* Elizabeth England
 
 ### Describer
 
