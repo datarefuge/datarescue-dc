@@ -1,0 +1,9 @@
+title: DataRescueDC
+email: ehs@pobox.com
+description: Join us for a DataRescueEvent in DC.
+baseurl: "/datarescue-dc"
+url: ""
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
