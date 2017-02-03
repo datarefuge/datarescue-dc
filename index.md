@@ -119,4 +119,4 @@ Participants:
 [Data Rescue event]: http://www.ppehlab.org/what-is-a-datarescue-event
 [Data Refuge]: https://www.datarefuge.org/
 [GitHub]: https://github.com/datarefuge/datarescue-dc 
-[markdown]: https://github.com/datarefuge/datarescue-dc/blob/master/index.md
+[this markdown file]: https://github.com/datarefuge/datarescue-dc/blob/master/index.md
