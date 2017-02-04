@@ -120,3 +120,4 @@ Participants:
 [Data Refuge]: https://www.datarefuge.org/
 [GitHub]: https://github.com/datarefuge/datarescue-dc 
 [this markdown file]: https://github.com/datarefuge/datarescue-dc/blob/master/index.md
+[Slack]: https://datarefuge.slack.com
