@@ -32,7 +32,7 @@ Saturday's sessions will include a teach-in featuring Georgetown professors, a G
 
 #### Sunday, February 19th: 10am to 5pm
 
-Sunday's sessions would include a creative coding and archive-a-thon, followed by a reception.
+Sunday's sessions will include a creative coding and archive-a-thon, followed by a reception. Please bring a fully charged laptop and a charger.
 
 ## Get Involved
 
@@ -46,59 +46,25 @@ just drop into [Slack] and let someone else know who will edit it for you.
 
 ## Data Rescue Teams
 
-Each Data Rescue team needs a "guide" or team lead. (Multiple guides/leaders
-welcome!) If you have skills in one of these areas, add your name below the team
-as appropriate. If you want to be the guide for one of these areas, indicate
-that as well. If you'd rather remain anonymous for now just show up, and we'll
+Guides will take you on these Paths: choose one according to your interests and skills. If you have skills in one of these areas and want to serve as a guide, please sign up [here]. If you'd rather remain anonymous for now just show up, and we'll
 figure it out from there.
 
-### Seeder/Sorter
+### Seeding & Sorting
+Feeding the End of Term Archive: This is the widest path and requires a variety of skill levels. Consider this path if you are a coder, hacker, have front end web experience, or just have a great attention to details.
 
-Guide(s): Joe Carrano
+### DataRefuge Path: the various interwoven paths to get "uncrawlable" data into DataRefuge
+  -Researchers (to review URLs the Seeders & Sorters mark as Uncrawlable): Consider this path if you have a strong front end web experience and like to find out more information about thing.
 
-Participants:
+  -Harvesters (to figure out how to capture the uncrawlable data): Consider this path if you're a hacker
 
-### Researcher
+  -Checkers (to inspect a harvested dataset and make sure that it is complete): The main question the checkers need to answer is "will the bag make sense to a scientist"? Checkers need to have an in-depth understanding of harvesting goals and potential content variations for datasets.
 
-Guide(s):
+  -Baggers (to do a quality assurance check and package the data): Consider this path if you have data or web archiving experience, or have strong tech skills AND attention to detail.
 
-Participants:
+  -Describers (includes a few people from the Baggers path): Consider this path if you have experience working with scientific data (particularly climate or environmental data) or with creating metadata. Trained librarians and scientists will be very helpful on this path.
 
-### Harvester
-
-Guide(s): Brandon Jasper
-
-Participants:
-
-### Checker
-
-Guide(s):
-
-Participants:
-
-### Bagger
-
-Guide(s): 
-
-Participants:
-
-* Elizabeth England
-
-### Describer
-
-Guide(s): Joseph Koivisto
-
-Participants:
-
-* Beth DeBold
-
-### Storytelling/Documenting
-
-Guide(s):
-
-Participants:
-
-* Annalisa Dias
+### Documentation & Storytelling
+Consider this path if you’re on social media (Facebook, Instagram, Twitter, whatever), if you can use Storify, if you have good listening and writing skills, and/or if you can make creative and engaging materials.
 
 ## Collaborators
 
