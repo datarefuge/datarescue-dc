@@ -6,7 +6,8 @@ layout: default
   <a href="https://www.datarefuge.org/"><img src="images/logo.jpg"></a>
   <h2>datarescueDC</h2>
   <h3>
-    Georgetown University Library<br>
+    [Reiss Science Building], Rooms 103 and 112
+    Georgetown University<br>
     February 18-19
   </h3>
 </header>
@@ -29,6 +30,7 @@ to be involved.
 #### Saturday, February 18th: 12pm to 6pm
 
 Saturday's sessions will include a teach-in featuring Georgetown professors, a Guide training for Sunday's team leaders, a round table on open data literacy, and a light reception featuring artists from the DC community. 
+Guide training: 1:30-4pm
 
 #### Sunday, February 19th: 10am to 5pm
 
@@ -82,3 +84,4 @@ Consider this path if you’re on social media (Facebook, Instagram, Twitter, wh
 [GitHub]: https://github.com/datarefuge/datarescue-dc 
 [this markdown file]: https://github.com/datarefuge/datarescue-dc/blob/master/index.md
 [Slack]: https://datarefuge.slack.com
+[Reiss Science Building]: https://goo.gl/maps/wYT3xNifSBn
