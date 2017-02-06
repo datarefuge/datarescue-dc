@@ -6,7 +6,7 @@ layout: default
   <a href="https://www.datarefuge.org/"><img src="images/logo.jpg"></a>
   <h2>datarescueDC</h2>
   <h3>
-    [Reiss Science Building], Rooms 103 and 112
+    [Reiss Science Building](https://goo.gl/maps/wYT3xNifSBn), Rooms 103 and 112<br>
     Georgetown University<br>
     February 18-19
   </h3>
@@ -84,4 +84,3 @@ Consider this path if you’re on social media (Facebook, Instagram, Twitter, wh
 [GitHub]: https://github.com/datarefuge/datarescue-dc 
 [this markdown file]: https://github.com/datarefuge/datarescue-dc/blob/master/index.md
 [Slack]: https://datarefuge.slack.com
-[Reiss Science Building]: https://goo.gl/maps/wYT3xNifSBn
