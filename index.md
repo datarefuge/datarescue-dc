@@ -39,11 +39,6 @@ Sunday's sessions will include a creative coding and archive-a-thon, followed by
 We're coordinating and planning in the [DataRefuge Slack], specifically in the 
 #datarescueDC channel. If you'd like an invite please email [datarefuge@ppehlab.org](mailto:datarefuge@ppehlab.org).
 
-See below to sign up for a specific team that matches your skillset. At the
-moment signing up involves going over to [GitHub] and editing [this markdown
-file] in your browser. If that sounds intimidating don't let that stop you, 
-just drop into [Slack] and let someone else know who will edit it for you.
-
 ## Data Rescue Teams
 
 Guides will take you on these Paths: choose one according to your interests and skills. If you have skills in one of these areas and want to serve as a guide, please sign up [here]. If you'd rather remain anonymous for now just show up, and we'll
