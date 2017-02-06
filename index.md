@@ -3,7 +3,7 @@ layout: default
 ---
 
 <header>
-  <a href="https://www.datarefuge.org/" title="Data Refuge Logo"><img src="images/logo.jpg"></a>
+  <a href="https://www.datarefuge.org/" title="Data Refuge Logo"><img class="logo" src="images/logo.jpg"></a>
   <h2>datarescueDC</h2>
   <h3>Reiss Science Building, Rooms 103 and 112<br>
     Georgetown University<br>

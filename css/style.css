@@ -8,6 +8,14 @@ header {
   text-align: center;
 }
 
+header img {
+    width: 600px;
+}
+
+header h2 {
+    margin-top: 0px;
+}
+
 #map {
   margin-left: auto; 
   margin-right: auto;
@@ -17,3 +25,5 @@ header {
 a {
   text-decoration: none;
 }
+
+
