@@ -36,7 +36,7 @@ Saturday's sessions will include a teach-in featuring Georgetown professors, a G
 
 #### Sunday, February 19th: 10am to 5pm
 
-Sunday's sessions will include a creative coding and archive-a-thon, followed by a reception. Please bring a fully charged laptop and a charger, snacks, water, and yourself!
+Sunday's sessions will include a creative coding and archive-a-thon, followed by a reception. Please bring a fully charged laptop and a charger, snacks, and yourself!
 
 ## Get Involved
 
