@@ -32,12 +32,11 @@ to be involved.
 
 #### Saturday, February 18th: 12pm to 6pm
 
-Saturday's sessions will include a teach-in featuring Georgetown professors, a Guide training for Sunday's team leaders, a round table on open data literacy, and a light reception featuring artists from the DC community. 
-Guide training: 1:30-4pm
+Saturday's sessions will include a teach-in featuring Georgetown professors, a Guide training for Sunday's team leaders (1:30-4 pm), a round table on open data literacy, and a light reception featuring artists from the DC community. Please check back for a full schedule for Saturday, coming soon.
 
 #### Sunday, February 19th: 10am to 5pm
 
-Sunday's sessions will include a creative coding and archive-a-thon, followed by a reception. Please bring a fully charged laptop and a charger.
+Sunday's sessions will include a creative coding and archive-a-thon, followed by a reception. Please bring a fully charged laptop and a charger, snacks, water, and yourself!
 
 ## Get Involved
 
