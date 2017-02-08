@@ -15,7 +15,7 @@ layout: default
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2120.5393250981792!2d-77.07383255877144!3d38.90908820078443!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2e8cec8bb12477d4!2sReiss+Science+Building!5e0!3m2!1sen!2sus!4v1486419654988" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
-Over the course of two days datadescueDC will help to seed, sort, harvest, and
+Over the course of two days datarescueDC will help to seed, sort, harvest, and
 store valuable and at risk federal government data in [Data Refuge], a project
 facilitated by the University of Pennsylvania's Program in Environmental
 Humanities. Specifically we will be using this [workflow
@@ -32,11 +32,11 @@ to be involved.
 
 #### Saturday, February 18th: 12pm to 6pm
 
-Saturday's sessions will include a teach-in featuring Georgetown professors, a Guide training for Sunday's team leaders (1:30-4 pm), a round table on open data literacy, and a light reception featuring artists from the DC community. Please check back for a full schedule for Saturday, coming soon.
+Saturday's sessions will include a teach-in featuring Georgetown professors (12-1:30 pm), a Guide training for Sunday's team leaders (1:30-4 pm), and a roundtable on open data literacy (4:45-5:30 pm). Please check back for more details on the teach-in and roundtable, coming soon.
 
 #### Sunday, February 19th: 10am to 5pm
 
-Sunday's sessions will include a creative coding and archive-a-thon, followed by a reception. Please bring a fully charged laptop and a charger, snacks, and yourself!
+Sunday's sessions will include a creative coding and archive-a-thon. Please bring a fully charged laptop and a charger, snacks/drinks, and yourself! We're working on getting food donations and will post here with any updates.
 
 ## Get Involved
 
