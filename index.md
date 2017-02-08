@@ -40,8 +40,7 @@ Sunday's sessions will include a creative coding and archive-a-thon, followed by
 
 ## Get Involved
 
-We're coordinating and planning in the [DataRefuge Slack], specifically in the 
-#datarescueDC channel. If you'd like an invite please email [datarefuge@ppehlab.org](mailto:datarefuge@ppehlab.org).
+We're coordinating and planning in the [DataRefuge Slack], specifically in the #datarescueDC channel. If you'd like an invite please email [datarescuedc@gmail.com](mailto:datarescuedc@gmail.com ).
 
 If you would like to attend DataRescueDC please fill out one the following forms
 after reading the information below about the types of teams that we are looking
