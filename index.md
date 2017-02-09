@@ -42,7 +42,7 @@ Sunday's sessions will include a creative coding and archive-a-thon. Please brin
 
 Get in touch: [datarescuedc@gmail.com](mailto:datarescuedc@gmail.com ). Press
 inquiries should be directed to Annalisa Dias. We have a #datarescuedc channel
-going within the [DateRefuge Slack], drop us a line to join the conversation. 
+going within the [DataRefuge Slack], drop us a line to join the conversation. 
 
 If you would like to attend DataRescueDC please fill out one of the following forms
 after reading the information below about the types of teams that we are looking
