@@ -5,7 +5,7 @@ layout: default
 <header>
   <a href="https://www.datarefuge.org/" title="Data Refuge Logo"><img class="logo" src="images/logo.jpg"></a>
   <h2>datarescueDC</h2>
-  <h3>Reiss Science Building, Rooms 103 and 112<br>
+  <h3>Reiss Science Building, Room 103<br>
     Georgetown University<br>
     February 18-19
   </h3>
@@ -15,7 +15,7 @@ layout: default
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2120.5393250981792!2d-77.07383255877144!3d38.90908820078443!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2e8cec8bb12477d4!2sReiss+Science+Building!5e0!3m2!1sen!2sus!4v1486419654988" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
-Over the course of two days datadescueDC will help to seed, sort, harvest, and
+Over the course of two days datarescueDC will help to seed, sort, harvest, and
 store valuable and at risk federal government data in [Data Refuge], a project
 facilitated by the University of Pennsylvania's Program in Environmental
 Humanities. Specifically we will be using this [workflow
@@ -32,17 +32,17 @@ to be involved.
 
 #### Saturday, February 18th: 12pm to 6pm
 
-Saturday's sessions will include a teach-in featuring Georgetown professors, a Guide training for Sunday's team leaders (1:30-4 pm), a round table on open data literacy, and a light reception featuring artists from the DC community. Please check back for a full schedule for Saturday, coming soon.
+Saturday's sessions will include a teach-in featuring Georgetown professors (12-1:30 pm), a Guide training for Sunday's team leaders (1:30-4 pm), and a roundtable on open data literacy (4:45-5:30 pm). Please check back for more details on the teach-in and roundtable, coming soon.
 
 #### Sunday, February 19th: 10am to 5pm
 
-Sunday's sessions will include a creative coding and archive-a-thon, followed by a reception. Please bring a fully charged laptop and a charger, snacks, and yourself!
+Sunday's sessions will include a creative coding and archive-a-thon. Please bring a fully charged laptop and a charger, snacks/drinks, and yourself! We're working on getting food donations and will post here with any updates.
 
 ## Get Involved
 
-We're coordinating and planning in the [DataRefuge Slack], specifically in the #datarescueDC channel. If you'd like an invite please email [datarescuedc@gmail.com](mailto:datarescuedc@gmail.com ).
+Get in touch: [datarescuedc@gmail.com](mailto:datarescuedc@gmail.com ). Press inquiries should be directed to Annalisa Dias. We have a #datarescuedc channel going within the DateRefuge slack, drop us a line to join the conversation. 
 
-If you would like to attend DataRescueDC please fill out one the following forms
+If you would like to attend DataRescueDC please fill out one of the following forms
 after reading the information below about the types of teams that we are looking
 for and deciding whether you want to work as a guide or not.
 
@@ -89,7 +89,9 @@ scientists will be very helpful on this path.
 
 ### Documentation & Storytelling
 
-Consider this path if you’re on social media (Facebook, Instagram, Twitter, whatever), if you can use Storify, if you have good listening and writing skills, and/or if you can make creative and engaging materials.
+Calling people with skills in social media, arts, blogging, photography, journalism, and media. Why and to whom does this data matter? How does this data matter to *you* and your community? In what ways do you imagine this data being used in the future? 
+
+A diverse group of people-not just climate scientists-benefit from this information in a number of ways. From archaeologists and city planners, to indigenous communities and local citizens that inhabit coastal towns, this data is valuable to a variety of stakeholders. We welcome you to write a story about *who* and *which* local communities, organizations, and institutions currently use specific datasets, and how.
 
 ## Collaborators
 
