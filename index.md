@@ -89,9 +89,9 @@ scientists will be very helpful on this path.
 
 ### Documentation & Storytelling
 
-Calling people with skills in social media, arts, blogging, photography, journalism, and media. Why and to whom does this data matter? How does this data matter to you and your community? In what ways do you imagine this data being used in the future? 
+Calling people with skills in social media, arts, blogging, photography, journalism, and media. Why and to whom does this data matter? How does this data matter to *you* and your community? In what ways do you imagine this data being used in the future? 
 
-A diverse group of people-not just climate scientists-benefit from this information in a number of ways. From archaeologists and city planners, to indigenous communities and local citizens that inhabit coastal towns, this data is valuable to a variety of stakeholders. We welcome you to write a story about who and which local communities, organizations, and institutions currently use specific datasets, and how.
+A diverse group of people-not just climate scientists-benefit from this information in a number of ways. From archaeologists and city planners, to indigenous communities and local citizens that inhabit coastal towns, this data is valuable to a variety of stakeholders. We welcome you to write a story about *who* and *which* local communities, organizations, and institutions currently use specific datasets, and how.
 
 ## Collaborators
 
