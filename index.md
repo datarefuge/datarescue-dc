@@ -105,12 +105,10 @@ Consider this path if you’re on social media (Facebook, Instagram, Twitter, wh
 * ProjectARCC
 * Union of Concerned Scientists
 
-
-[DataRefuge Slack]: https://datarefuge.slack.com
+[DataRefuge Slack]: https://datarefuge.slack.com/messages/datarescuedc/ 
 [Data Rescue event]: http://www.ppehlab.org/what-is-a-datarescue-event
 [Data Refuge]: https://www.datarefuge.org/
 [GitHub]: https://github.com/datarefuge/datarescue-dc 
 [this markdown file]: https://github.com/datarefuge/datarescue-dc/blob/master/index.md
-[Slack]: https://datarefuge.slack.com
 [Participant Registration]: https://docs.google.com/forms/d/e/1FAIpQLSdMPvhEbfy12L1XzzjIpSVT5Ux6bRXoFPcDa6ImT1v1W1rEnA/viewform
 [Guide Registration]: https://docs.google.com/forms/d/e/1FAIpQLSdfiv-BtQTf94a-HDMl-XnTf07RBIYppJSJ_BEqAX_h5fRVHQ/viewform
