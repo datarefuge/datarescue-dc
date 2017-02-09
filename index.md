@@ -40,7 +40,7 @@ Sunday's sessions will include a creative coding and archive-a-thon. Please brin
 
 ## Get Involved
 
-Get in touch: [datarescuedc@gmail.com](mailto:datarescuedc@gmail.com ). We have a #datarescuedc channel going within the DateRefuge slack. Drop us a line to join the conversation.
+Get in touch: [datarescuedc@gmail.com](mailto:datarescuedc@gmail.com ). Press inquiries should be directed to Annalisa Dias. We have a #datarescuedc channel going within the DateRefuge slack, drop us a line to join the conversation. 
 
 If you would like to attend DataRescueDC please fill out one of the following forms
 after reading the information below about the types of teams that we are looking
@@ -89,7 +89,9 @@ scientists will be very helpful on this path.
 
 ### Documentation & Storytelling
 
-Consider this path if you’re on social media (Facebook, Instagram, Twitter, whatever), if you can use Storify, if you have good listening and writing skills, and/or if you can make creative and engaging materials.
+Calling people with skills in social media, arts, blogging, photography, journalism, and media. Why and to whom does this data matter? How does this data matter to you and your community? In what ways do you imagine this data being used in the future? 
+
+A diverse group of people-not just climate scientists-benefit from this information in a number of ways. From archaeologists and city planners, to indigenous communities and local citizens that inhabit coastal towns, this data is valuable to a variety of stakeholders. We welcome you to write a story about who and which local communities, organizations, and institutions currently use specific datasets, and how.
 
 ## Collaborators
 
