@@ -40,9 +40,9 @@ Sunday's sessions will include a creative coding and archive-a-thon. Please brin
 
 ## Get Involved
 
-We're coordinating and planning in the [DataRefuge Slack], specifically in the #datarescueDC channel. If you'd like an invite please email [datarescuedc@gmail.com](mailto:datarescuedc@gmail.com ).
+Get in touch: [datarescuedc@gmail.com](mailto:datarescuedc@gmail.com ).
 
-If you would like to attend DataRescueDC please fill out one the following forms
+If you would like to attend DataRescueDC please fill out one of the following forms
 after reading the information below about the types of teams that we are looking
 for and deciding whether you want to work as a guide or not.
 
