@@ -34,12 +34,12 @@ Please note that participants will need to show a valid photo ID to enter the La
 ## Schedule
 
 #### Saturday, February 18th: 12pm to 6pm
-#### Lauinger Library, Murray Conference Room
+Lauinger Library, Murray Conference Room
 
 Saturday's sessions will include a teach-in featuring Georgetown professors (12-1:30 pm), a Guide training for Sunday's team leaders (1:30-4 pm), and a roundtable on open data literacy (4:45-5:30 pm). Please check back for more details on the teach-in and roundtable, coming soon.
 
 #### Sunday, February 19th: 10am to 5pm
-#### Reiss Science Building
+Reiss Science Building, Room 103
 
 Sunday's sessions will include a creative coding and archive-a-thon. Please bring a fully charged laptop and a charger, a water bottle (fill stations available), and yourself! A light lunch will be provided courtesy of Johns Hopkins University Sheridan Libraries. Participants are free to attend Sunday only, you do not need to come Saturday in order to participate Sunday!
 
