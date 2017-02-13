@@ -5,7 +5,8 @@ layout: default
 <header>
   <a href="https://www.datarefuge.org/" title="Data Refuge Logo"><img class="logo" src="images/logo.jpg"></a>
   <h2>datarescueDC</h2>
-  <h3>Reiss Science Building, Room 103<br>
+  <h3>Lauinger Library, Murray Conference Room (Saturday)<br>
+    Reiss Science Building, Room 103 (Sunday)<br>
     Georgetown University<br>
     February 18-19
   </h3>
@@ -28,15 +29,19 @@ values the data publishing work the federal government, a software developer,
 designer, or writer who we've got work for you to do, and would love for you 
 to be involved.
 
+Please note that participants will need to show a valid photo ID to enter the Lauinger Library, but information is not recorded. 
+
 ## Schedule
 
 #### Saturday, February 18th: 12pm to 6pm
+#### Lauinger Library, Murray Conference Room
 
 Saturday's sessions will include a teach-in featuring Georgetown professors (12-1:30 pm), a Guide training for Sunday's team leaders (1:30-4 pm), and a roundtable on open data literacy (4:45-5:30 pm). Please check back for more details on the teach-in and roundtable, coming soon.
 
 #### Sunday, February 19th: 10am to 5pm
+#### Reiss Science Building
 
-Sunday's sessions will include a creative coding and archive-a-thon. Please bring a fully charged laptop and a charger, snacks/drinks, and yourself! We're working on getting food donations and will post here with any updates.
+Sunday's sessions will include a creative coding and archive-a-thon. Please bring a fully charged laptop and a charger, a water bottle (fill stations available), and yourself! A light lunch will be provided courtesy of Johns Hopkins University Sheridan Libraries. Participants are free to attend Sunday only, you do not need to come Saturday in order to participate Sunday!
 
 ## Get Involved
 
@@ -57,7 +62,7 @@ Guides will take you on these Paths: choose one according to your interests and
 skills. If you have skills in one of these areas and want to serve as a guide,
 please sign up using the [Guide Registration]. If you would like to help out
 fill out the [Participant Registration] form. If you'd rather remain anonymous
-for now just show up, and we'll figure it out from there.
+for now but can fill out an anonymous participant reigstration, that'll help us know how much food to get.
 
 ### Seeding & Sorting
 
@@ -68,7 +73,7 @@ Feeding the End of Term Archive: This is the widest path and requires a variety 
 These are the various interwoven paths to get "uncrawlable" data into
 DataRefuge:
 
-- **Researchers**: to review URLs the Seeders & Sorters mark as Uncrawlable).
+- **Researchers**: to review URLs the Seeders & Sorters mark as Uncrawlable.
 Consider this path if you have a strong front end web experience and like to
 find out more information about thing.
 
@@ -95,9 +100,12 @@ Calling people with skills in social media, arts, blogging, photography, journal
 
 A diverse group of people-not just climate scientists-benefit from this information in a number of ways. From archaeologists and city planners, to indigenous communities and local citizens that inhabit coastal towns, this data is valuable to a variety of stakeholders. We welcome you to write a story about *who* and *which* local communities, organizations, and institutions currently use specific datasets, and how.
 
+## Sponsors
+* Georgetown University Library
+* Johns Hopkins University Sheridan Libraries
+
 ## Collaborators
 
-* Georgetown University Library
 * Sunlight Foundation
 * University of Pennsylvania Libraries
 * Penn Program in Environmental Humanities
