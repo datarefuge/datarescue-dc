@@ -36,12 +36,12 @@ Please note that participants will need to show a valid photo ID to enter the La
 #### Saturday, February 18th: 12pm to 6pm
 Lauinger Library, Murray Conference Room
 
-Saturday's sessions will include a teach-in featuring Georgetown professors (12-1:30 pm), a Guide training for Sunday's team leaders (1:30-4 pm), and a roundtable on open data literacy (4:45-5:30 pm). Please check back for more details on the teach-in and roundtable, coming soon.
+Saturday's sessions will include a teach-in on the importance of climate data (12-1:30 pm), a Guide training for Sunday's team leaders (1:30-4 pm), and a roundtable on open data literacy (4:45-5:30 pm). Please check back for more details on the teach-in and roundtable, coming soon. You're welcome to come for Saturday events even if you can't come Sunday.
 
 #### Sunday, February 19th: 10am to 5pm
 Reiss Science Building, Room 103
 
-Sunday's sessions will include a creative coding and archive-a-thon. Please bring a fully charged laptop and a charger, a water bottle (fill stations available), and yourself! A light lunch will be provided courtesy of Johns Hopkins University Sheridan Libraries. Participants are free to attend Sunday only, you do not need to come Saturday in order to participate Sunday!
+Sunday's session will include a creative coding and archive-a-thon. Please bring a fully charged laptop and a charger, a water bottle (fill stations available), and yourself! A light lunch will be provided courtesy of Johns Hopkins University Sheridan Libraries. You're welcome to come for Sunday events even if you can't come Saturday, stay the whole time or come whenever works for you.
 
 ## Get Involved
 
@@ -75,7 +75,7 @@ DataRefuge:
 
 - **Researchers**: to review URLs the Seeders & Sorters mark as Uncrawlable.
 Consider this path if you have a strong front end web experience and like to
-find out more information about thing.
+find out more information about things.
 
 - **Harvesters**: to figure out how to capture the uncrawlable data. Consider
 this path if you're a hacker
