@@ -43,6 +43,8 @@ Reiss Science Building, Room 103
 
 Sunday's session will include a creative coding and archive-a-thon. Please bring a fully charged laptop and a charger, a water bottle (fill stations available), and yourself! A light lunch will be provided courtesy of Johns Hopkins University Sheridan Libraries. You're welcome to come for Sunday events even if you can't come Saturday, stay the whole time or come whenever works for you.
 
+Here is some [parking information], note that the visitor lot at Georgetown is cash only. There may also be street parking in the neighborhood.
+
 ## Get Involved
 
 Get in touch: [datarescuedc@gmail.com](mailto:datarescuedc@gmail.com ). Press
@@ -124,3 +126,4 @@ A diverse group of people-not just climate scientists-benefit from this informat
 [this markdown file]: https://github.com/datarefuge/datarescue-dc/blob/master/index.md
 [Participant Registration]: https://docs.google.com/forms/d/e/1FAIpQLSdMPvhEbfy12L1XzzjIpSVT5Ux6bRXoFPcDa6ImT1v1W1rEnA/viewform
 [Guide Registration]: https://docs.google.com/forms/d/e/1FAIpQLSdfiv-BtQTf94a-HDMl-XnTf07RBIYppJSJ_BEqAX_h5fRVHQ/viewform
+[parking information]: https://transportation.georgetown.edu/Driving-and-Parking
