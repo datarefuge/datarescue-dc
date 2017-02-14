@@ -33,10 +33,10 @@ Please note that participants will need to show a valid photo ID to enter the La
 
 ## Schedule
 
-#### Saturday, February 18th: 12pm to 6pm
+#### Saturday, February 18th: 12pm to 5:30pm
 Lauinger Library, Murray Conference Room
 
-Saturday's sessions will include a teach-in on the importance of climate data (12-1:30 pm), a Guide training for Sunday's team leaders (1:30-4 pm), and a roundtable on open data literacy (4:45-5:30 pm). Please check back for more details on the teach-in and roundtable, coming soon. You're welcome to come for Saturday events even if you can't come Sunday.
+Saturday's sessions will include a teach-in on the importance of climate data (12-1:30 pm), a Guide training for Sunday's team leaders (1:30-4 pm), and a roundtable on open data/data vulnerability (4:15-5:15 pm). Please check back for more details on the teach-in and roundtable, coming soon. You're welcome to come for Saturday events even if you can't come Sunday.
 
 #### Sunday, February 19th: 10am to 5pm
 Reiss Science Building, Room 103
