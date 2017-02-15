@@ -43,11 +43,11 @@ Saturday's sessions will include:
 **Guide training** for Sunday's team leaders (1:30-4:00 pm)  
 
 **Open data/data vulnerability**: A round table discussion (4:15-5:15 pm)  
-* Moderator: [Alex Howard](https://sunlightfoundation.com/about/team/ahoward/), *Deputy Director, Sunlight Foundation*
-* [Laurie Allen](http://www.laurieallen.org/), *Assistant Director for Digital Scholarship, University of Pennsylvania Libraries*
-* [Laura Wrubel](https://library.gwu.edu/users/Wrubel), *Software Development Librarian; End of Term Archive participant, George Washington University Libraries*
-* [Mike Kruger](https://www.commerce.gov/directory/mikekruger), *Former Deputy Director of Public Affairs, U.S. Department of Commerce*
-* [Michael Halpern](http://www.ucsusa.org/bio/michael-halpern.html), *Deputy Director, Union of Concerned Scientists*
+* Moderator: [Alex Howard](https://sunlightfoundation.com/about/team/ahoward/), Deputy Director, Sunlight Foundation
+* [Laurie Allen](http://www.laurieallen.org/), Assistant Director for Digital Scholarship, University of Pennsylvania Libraries
+* [Laura Wrubel](https://library.gwu.edu/users/Wrubel), Software Development Librarian; End of Term Archive participant, George Washington University Libraries
+* [Mike Kruger](https://www.commerce.gov/directory/mikekruger), Former Deputy Director of Public Affairs, U.S. Department of Commerce
+* [Michael Halpern](http://www.ucsusa.org/bio/michael-halpern.html), Deputy Director, Union of Concerned Scientists
 
 
 Please check back for more details on the teach-in and roundtable, coming soon. You're welcome to come for Saturday events even if you can't come Sunday.
