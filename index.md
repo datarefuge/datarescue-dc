@@ -5,10 +5,10 @@ layout: default
 <header>
   <a href="https://www.datarefuge.org/" title="Data Refuge Logo"><img class="logo" src="images/logo.jpg"></a>
   <h2>datarescueDC</h2>
-  <h3>Lauinger Library, Murray Conference Room (Saturday)<br>
+  <h3>Lauinger Library, Murray Conference Room, Room 541 (Saturday)<br>
     Reiss Science Building, Room 103 (Sunday)<br>
     Georgetown University<br>
-    February 18-19
+    February 18-19, 2017
   </h3>
 </header>
 
@@ -29,14 +29,28 @@ values the data publishing work the federal government, a software developer,
 designer, or writer who we've got work for you to do, and would love for you 
 to be involved.
 
-Please note that participants will need to show a valid photo ID to enter the Lauinger Library, but information is not recorded. 
+Please note that participants will need to show a valid photo ID to enter the Lauinger Library, but information will not be recorded. 
 
 ## Schedule
 
 #### Saturday, February 18th: 12pm to 5:30pm
-Lauinger Library, Murray Conference Room
+Lauinger Library, Murray Conference Room (Room 541)
 
-Saturday's sessions will include a teach-in on the importance of climate data (12-1:30 pm), a Guide training for Sunday's team leaders (1:30-4 pm), and a roundtable on open data/data vulnerability (4:15-5:15 pm). Please check back for more details on the teach-in and roundtable, coming soon. You're welcome to come for Saturday events even if you can't come Sunday.
+Saturday's sessions will include:  
+
+**Humanizing Climate Data**: A teach-in on the importance of climate data (12-1:30 pm)  
+
+**Guide training** for Sunday's team leaders (1:30-4:00 pm)  
+
+**Open data/data vulnerability**: A round table discussion (4:15-5:15 pm)  
+* Moderator: [Alex Howard](https://sunlightfoundation.com/about/team/ahoward/), *Deputy Director, Sunlight Foundation*
+* [Laurie Allen](http://www.laurieallen.org/), *Assistant Director for Digital Scholarship, University of Pennsylvania Libraries*
+* [Laura Wrubel](https://library.gwu.edu/users/Wrubel), *Software Development Librarian; End of Term Archive participant, George Washington University Libraries*
+* [Mike Kruger](https://www.commerce.gov/directory/mikekruger), *Former Deputy Director of Public Affairs, U.S. Department of Commerce*
+* [Michael Halpern](http://www.ucsusa.org/bio/michael-halpern.html), *Deputy Director, Union of Concerned Scientists*
+
+
+Please check back for more details on the teach-in and roundtable, coming soon. You're welcome to come for Saturday events even if you can't come Sunday.
 
 #### Sunday, February 19th: 10am to 5pm
 Reiss Science Building, Room 103
@@ -103,21 +117,21 @@ Calling people with skills in social media, arts, blogging, photography, journal
 A diverse group of people-not just climate scientists-benefit from this information in a number of ways. From archaeologists and city planners, to indigenous communities and local citizens that inhabit coastal towns, this data is valuable to a variety of stakeholders. We welcome you to write a story about *who* and *which* local communities, organizations, and institutions currently use specific datasets, and how.
 
 ## Sponsors
-* Georgetown University Library
-* Johns Hopkins University Sheridan Libraries
+* [Georgetown University Library](http://www.library.georgetown.edu/)
+* [Johns Hopkins University Sheridan Libraries](https://www.library.jhu.edu/)
 
 ## Collaborators
 
-* Sunlight Foundation
-* University of Pennsylvania Libraries
-* Penn Program in Environmental Humanities
-* Environmental Data Governance Initiative (EDGI)
-* Climate Mirror
-* University of Michigan Libraries
-* Internet Archive
-* Temple University Libraries
-* ProjectARCC
-* Union of Concerned Scientists
+* [Sunlight Foundation](https://sunlightfoundation.com/)
+* [University of Pennsylvania Libraries](http://www.library.upenn.edu/)
+* [Penn Program in Environmental Humanities](http://www.ppehlab.org/)
+* [Environmental Data Governance Initiative (EDGI)](https://envirodatagov.org/)
+* [Climate Mirror](http://climatemirror.org/)
+* [University of Michigan Libraries](https://www.lib.umich.edu/)
+* [Internet Archive](https://archive.org/)
+* [Temple University Libraries](https://library.temple.edu/)
+* [ProjectARCC](https://projectarcc.org/)
+* [Union of Concerned Scientists](http://www.ucsusa.org/)
 
 [DataRefuge Slack]: https://datarefuge.slack.com/messages/datarescuedc/ 
 [Data Rescue event]: http://www.ppehlab.org/what-is-a-datarescue-event
