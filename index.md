@@ -38,11 +38,12 @@ Lauinger Library, Murray Conference Room (Room 541)
 
 Saturday's sessions will include:  
 
-**Humanizing Climate Data**: A teach-in on the importance of climate data (12-1:30 pm)  
+##### Humanizing Climate Data**: A teach-in on the importance of climate data (12-1:30 pm)  
 
-**Guide training** for Sunday's team leaders (1:30-4:00 pm)  
+##### Guide training** for Sunday's team leaders (1:30-4:00 pm)  
 
-**Open data/data vulnerability**: A round table discussion (4:15-5:15 pm)  
+##### Open data/data vulnerability: A round table discussion (4:15-5:15 pm)  
+
 * Moderator: [Alex Howard](https://sunlightfoundation.com/about/team/ahoward/), Deputy Director, Sunlight Foundation
 * [Laurie Allen](http://www.laurieallen.org/), Assistant Director for Digital Scholarship, University of Pennsylvania Libraries
 * [Laura Wrubel](https://library.gwu.edu/users/Wrubel), Software Development Librarian; End of Term Archive participant, GWU Libraries
