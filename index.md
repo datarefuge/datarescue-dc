@@ -56,7 +56,7 @@ Saturday's sessions will include:
 * [Michael Halpern](http://www.ucsusa.org/bio/michael-halpern.html), Deputy Director, Union of Concerned Scientists
 
 
-Please check back for more details on the teach-in and roundtable, coming soon. You're welcome to come for Saturday events even if you can't come Sunday.
+You're welcome to come for Saturday events even if you can't come Sunday.
 
 #### Sunday, February 19th: 10:00 am to 5:00 pm
 Reiss Science Building, Room 103
