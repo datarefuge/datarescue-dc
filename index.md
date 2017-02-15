@@ -33,12 +33,12 @@ Please note that participants will need to show a valid photo ID to enter the La
 
 ## Schedule
 
-#### Saturday, February 18th: 12pm to 5:30pm
+#### Saturday, February 18th: 12:00 pm to 5:30 pm
 Lauinger Library, Murray Conference Room (Room 541)
 
 Saturday's sessions will include:  
 
-##### Humanizing Climate Data: A teach-in on the importance of climate data (1200-1:30 pm)  
+##### Humanizing Climate Data: A teach-in on the importance of climate data (12:00-1:30 pm)  
 
 ##### Guide training for Sunday's team leaders (1:30-4:00 pm)  
 
