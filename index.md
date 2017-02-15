@@ -38,7 +38,11 @@ Lauinger Library, Murray Conference Room (Room 541)
 
 Saturday's sessions will include:  
 
-##### Humanizing Climate Data: A teach-in on the importance of climate data (12:00-1:30 pm)  
+##### Humanizing Climate Data: A teach-in on the importance of climate data (12:00-1:30 pm)
+
+* Moderator: [Elizabeth Foster](http://www.library.georgetown.edu/staff/ef534) Public Policy and Social Sciences Librarian, Georgetown University Library
+* [Bethany Wiggin](https://www.sas.upenn.edu/germanic/people/bethany-wiggin) Founding Director, Penn Program in Environmental Humanities; Associate Professor of German, University of Pennsylvania
+* [Raphael Calel](http://explore.georgetown.edu/people/rac121/) Assistant Professor in the McCourt School of Public Policy, Georgetown University
 
 ##### Guide training for Sunday's team leaders (1:30-4:00 pm)  
 
