@@ -45,7 +45,7 @@ Saturday's sessions will include:
 **Open data/data vulnerability**: A round table discussion (4:15-5:15 pm)  
 * Moderator: [Alex Howard](https://sunlightfoundation.com/about/team/ahoward/), Deputy Director, Sunlight Foundation
 * [Laurie Allen](http://www.laurieallen.org/), Assistant Director for Digital Scholarship, University of Pennsylvania Libraries
-* [Laura Wrubel](https://library.gwu.edu/users/Wrubel), Software Development Librarian; End of Term Archive participant, George Washington University Libraries
+* [Laura Wrubel](https://library.gwu.edu/users/Wrubel), Software Development Librarian; End of Term Archive participant, GWU Libraries
 * [Mike Kruger](https://www.commerce.gov/directory/mikekruger), Former Deputy Director of Public Affairs, U.S. Department of Commerce
 * [Michael Halpern](http://www.ucsusa.org/bio/michael-halpern.html), Deputy Director, Union of Concerned Scientists
 
