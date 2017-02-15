@@ -43,6 +43,7 @@ Saturday's sessions will include:
 * Moderator: [Elizabeth Foster](http://www.library.georgetown.edu/staff/ef534) Public Policy and Social Sciences Librarian, Georgetown University Library
 * [Bethany Wiggin](https://www.sas.upenn.edu/germanic/people/bethany-wiggin) Founding Director, Penn Program in Environmental Humanities; Associate Professor of German, University of Pennsylvania
 * [Raphael Calel](http://explore.georgetown.edu/people/rac121/) Assistant Professor in the McCourt School of Public Policy, Georgetown University
+* [Denice W. Ross](https://www.newamerica.org/our-people/denice-w-ross/) Public Interest Technology Fellow, New America
 
 ##### Guide training for Sunday's team leaders (1:30-4:00 pm)  
 
