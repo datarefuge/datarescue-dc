@@ -38,9 +38,9 @@ Lauinger Library, Murray Conference Room (Room 541)
 
 Saturday's sessions will include:  
 
-##### Humanizing Climate Data**: A teach-in on the importance of climate data (12-1:30 pm)  
+##### Humanizing Climate Data: A teach-in on the importance of climate data (1200-1:30 pm)  
 
-##### Guide training** for Sunday's team leaders (1:30-4:00 pm)  
+##### Guide training for Sunday's team leaders (1:30-4:00 pm)  
 
 ##### Open data/data vulnerability: A round table discussion (4:15-5:15 pm)  
 
@@ -53,7 +53,7 @@ Saturday's sessions will include:
 
 Please check back for more details on the teach-in and roundtable, coming soon. You're welcome to come for Saturday events even if you can't come Sunday.
 
-#### Sunday, February 19th: 10am to 5pm
+#### Sunday, February 19th: 10:00 am to 5:00 pm
 Reiss Science Building, Room 103
 
 Sunday's session will include a creative coding and archive-a-thon. Please bring a fully charged laptop and a charger, a water bottle (fill stations available), and yourself! A light lunch will be provided courtesy of Johns Hopkins University Sheridan Libraries. You're welcome to come for Sunday events even if you can't come Saturday, stay the whole time or come whenever works for you.
