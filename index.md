@@ -40,9 +40,9 @@ Saturday's sessions will include:
 
 ##### Humanizing Climate Data: A teach-in on the importance of climate data (12:00-1:30 pm)
 
-* Moderator: [Elizabeth Foster](http://www.library.georgetown.edu/staff/ef534) Public Policy and Social Sciences Librarian, Georgetown University Library
-* [Bethany Wiggin](https://www.sas.upenn.edu/germanic/people/bethany-wiggin) Founding Director, Penn Program in Environmental Humanities; Associate Professor of German, University of Pennsylvania
-* [Raphael Calel](http://explore.georgetown.edu/people/rac121/) Assistant Professor in the McCourt School of Public Policy, Georgetown University
+* Moderator: [Elizabeth Foster](http://www.library.georgetown.edu/staff/ef534), Public Policy and Social Sciences Librarian, Georgetown University Library
+* [Bethany Wiggin](https://www.sas.upenn.edu/germanic/people/bethany-wiggin), Founding Director, Penn Program in Environmental Humanities; Associate Professor of German, University of Pennsylvania
+* [Raphael Calel](http://explore.georgetown.edu/people/rac121/), Assistant Professor in the McCourt School of Public Policy, Georgetown University
 * [Denice W. Ross](https://www.newamerica.org/our-people/denice-w-ross/) Public Interest Technology Fellow, New America
 
 ##### Guide training for Sunday's team leaders (1:30-4:00 pm)  
@@ -53,7 +53,7 @@ Saturday's sessions will include:
 * [Laurie Allen](http://www.laurieallen.org/), Assistant Director for Digital Scholarship, University of Pennsylvania Libraries
 * [Laura Wrubel](https://library.gwu.edu/users/Wrubel), Software Development Librarian; End of Term Archive participant, GWU Libraries
 * [Mike Kruger](https://www.commerce.gov/directory/mikekruger), Former Deputy Director of Public Affairs, U.S. Department of Commerce
-* [Michael Halpern](http://www.ucsusa.org/bio/michael-halpern.html), Deputy Director, Union of Concerned Scientists
+* [Michael Halpern](http://www.ucsusa.org/bio/michael-halpern.html), Deputy Director, Center for Science and Democracy at the Union of Concerned Scientists
 
 
 You're welcome to come for Saturday events even if you can't come Sunday.
