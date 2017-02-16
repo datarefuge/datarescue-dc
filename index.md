@@ -5,15 +5,16 @@ layout: default
 <header>
   <a href="https://www.datarefuge.org/" title="Data Refuge Logo"><img class="logo" src="images/logo.jpg"></a>
   <h2>datarescueDC</h2>
-  <h3>Lauinger Library, Murray Conference Room, Room 541 (Saturday)<br>
-    Reiss Science Building, Room 103 (Sunday)<br>
-    Georgetown University<br>
-    February 18-19, 2017
-  </h3>
+  <p>
+    February 18-19, 2017<br>
+    Georgetown University<br><br>
+    Lauinger Library, Murray Conference Room, Room 541 (Saturday)<br><br>
+    Reiss Science Building, Room 103 (Sunday)<br><br>
+  </p>
 </header>
 
 <div id="map">
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2120.5393250981792!2d-77.07383255877144!3d38.90908820078443!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2e8cec8bb12477d4!2sReiss+Science+Building!5e0!3m2!1sen!2sus!4v1486419654988" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CMAmsh9st7u9p3l2C4Z5k9VZ_PE" width="640" height="480"></iframe>
 </div>
 
 Over the course of two days datarescueDC will help to seed, sort, harvest, and
