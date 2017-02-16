@@ -5,11 +5,13 @@ layout: default
 <header>
   <a href="https://www.datarefuge.org/" title="Data Refuge Logo"><img class="logo" src="images/logo.jpg"></a>
   <h2>datarescueDC</h2>
+  <h3>
+    Georgetown University<br>
+    February 18-19, 2017
+  </h3>
   <p>
-    February 18-19, 2017<br>
-    Georgetown University<br><br>
-    Lauinger Library, Murray Conference Room, Room 541 (Saturday)<br><br>
-    Reiss Science Building, Room 103 (Sunday)<br><br>
+    <b>Saturday</b>: Lauinger Library, Murray Conference Room, Room 541<br>
+    <b>Sunday</b>: Reiss Science Building, Room 103<br><br>
   </p>
 </header>
 
