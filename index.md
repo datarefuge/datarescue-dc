@@ -58,7 +58,6 @@ Saturday's sessions will include:
 * [Mike Kruger](https://www.commerce.gov/directory/mikekruger), Former Deputy Director of Public Affairs, U.S. Department of Commerce
 * [Michael Halpern](http://www.ucsusa.org/bio/michael-halpern.html), Deputy Director, Center for Science and Democracy at the Union of Concerned Scientists
 
-
 You're welcome to come for Saturday events even if you can't come Sunday.
 
 #### Sunday, February 19th: 10:00 am to 5:00 pm
@@ -66,9 +65,12 @@ Reiss Science Building, Room 103
 
 Sunday's session will include a creative coding and archive-a-thon. Please bring a fully charged laptop and a charger, a water bottle (fill stations available), and yourself! A light lunch will be provided courtesy of Johns Hopkins University Sheridan Libraries. You're welcome to come for Sunday events even if you can't come Saturday, stay the whole time or come whenever works for you.
 
-Here is some [parking information], note that the visitor lot at Georgetown is cash only. There may also be street parking in the neighborhood.
+##### Transportation
+Check here for [transportation options](https://transportation.georgetown.edu/). Here is also some [parking information], note that the visitor lot at Georgetown is cash only. There may also be street parking in the neighborhood.
 
 ## Get Involved
+
+Please look over our [field guide](https://docs.google.com/document/d/1GZCuXlx-3XGO8DCVIfNvQB3V7-WyXSPf6qG8Cse7U-E/edit?usp=sharing) which provides more information about the day's events and our code of conduct.
 
 Get in touch: [datarescuedc@gmail.com](mailto:datarescuedc@gmail.com ). Press
 inquiries should be directed to Annalisa Dias. We have a #datarescuedc channel
