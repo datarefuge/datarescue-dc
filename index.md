@@ -151,6 +151,4 @@ A diverse group of people-not just climate scientists-benefit from this informat
 [Data Refuge]: https://www.datarefuge.org/
 [GitHub]: https://github.com/datarefuge/datarescue-dc 
 [this markdown file]: https://github.com/datarefuge/datarescue-dc/blob/master/index.md
-[Participant Registration]: https://docs.google.com/forms/d/e/1FAIpQLSdMPvhEbfy12L1XzzjIpSVT5Ux6bRXoFPcDa6ImT1v1W1rEnA/viewform
-[Guide Registration]: https://docs.google.com/forms/d/e/1FAIpQLSdfiv-BtQTf94a-HDMl-XnTf07RBIYppJSJ_BEqAX_h5fRVHQ/viewform
 [parking information]: https://transportation.georgetown.edu/Driving-and-Parking
