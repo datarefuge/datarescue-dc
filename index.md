@@ -70,11 +70,12 @@ Check here for [transportation options](https://transportation.georgetown.edu/).
 
 ## Get Involved
 
-Please look over our [field guide](https://docs.google.com/document/d/1GZCuXlx-3XGO8DCVIfNvQB3V7-WyXSPf6qG8Cse7U-E/edit?usp=sharing) which provides more information about the day's events and our code of conduct.
+Please look over our **[field guide]**(https://docs.google.com/document/d/1GZCuXlx-3XGO8DCVIfNvQB3V7-WyXSPf6qG8Cse7U-E/edit?usp=sharing) which provides more information about the day's events and our code of conduct.
 
 Get in touch: [datarescuedc@gmail.com](mailto:datarescuedc@gmail.com ). Press
-inquiries should be directed to Annalisa Dias. We have a #datarescuedc channel
-going within the [DataRefuge Slack], drop us a line to join the conversation. 
+inquiries should be directed to Annalisa Dias. Please also see this [press kit](https://drive.google.com/drive/folders/0B7GwZd1xYChFZ3RJa0dCNEVwS1k) for further information.
+
+We have a #datarescuedc channel going within the [DataRefuge Slack], drop us a line to join the conversation. 
 
 If you would like to attend DataRescueDC please fill out one of the following forms
 after reading the information below about the types of teams that we are looking
