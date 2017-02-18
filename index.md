@@ -19,6 +19,8 @@ layout: default
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CMAmsh9st7u9p3l2C4Z5k9VZ_PE" width="640" height="480"></iframe>
 </div>
 
+**We are at capacity for our event, thanks to all who signed up!** Watch this space for future events!
+
 Over the course of two days datarescueDC will help to seed, sort, harvest, and
 store valuable and at risk federal government data in [Data Refuge], a project
 facilitated by the University of Pennsylvania's Program in Environmental
@@ -70,6 +72,8 @@ Check here for [transportation options](https://transportation.georgetown.edu/).
 
 ## Get Involved
 
+**We are at capacity for our event, thanks to all who signed up!** Watch this space for future events!
+
 Please look over our [field guide](https://docs.google.com/document/d/1GZCuXlx-3XGO8DCVIfNvQB3V7-WyXSPf6qG8Cse7U-E/edit?usp=sharing) which provides more information about the days' events and our code of conduct.
 
 Get in touch: [datarescuedc@gmail.com](mailto:datarescuedc@gmail.com ). Press
@@ -80,9 +84,6 @@ We have a #datarescuedc channel going within the [DataRefuge Slack], drop us a l
 If you would like to attend DataRescueDC please fill out one of the following forms
 after reading the information below about the types of teams that we are looking
 for and deciding whether you want to work as a guide or not.
-
-* [Participant Registration]
-* [Guide Registration]
 
 ## Data Rescue Teams
 
