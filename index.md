@@ -23,8 +23,7 @@ layout: default
             <a class="twitter-timeline"  href="https://twitter.com/hashtag/datarescueDC" data-widget-id="833322168637349888">#datarescueDC Tweets</a>
             <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
           
-<div class="storify"><iframe src="//storify.com/Bayard/why-help-bring-public-data-to-the-public/embed?header=false&template=slideshow" width="100%" height="750" frameborder="no" allowtransparency="true"></iframe><script src="//storify.com/Bayard/why-help-bring-public-data-to-the-public.js?header=false&template=slideshow"></script><noscript>[<a href="//storify.com/Bayard/why-help-bring-public-data-to-the-public" target="_blank">View the story "Why help bring public data to the public?" on Storify</a>]</noscript></div><p>          
-
+<div class="storify"><iframe src="//storify.com/Bayard/why-help-bring-public-data-to-the-public/embed?header=false&template=grid" width="100%" height="750" frameborder="no" allowtransparency="true"></iframe><script src="//storify.com/Bayard/why-help-bring-public-data-to-the-public.js?header=false&template=grid"></script><noscript>[<a href="//storify.com/Bayard/why-help-bring-public-data-to-the-public" target="_blank">View the story "Why help bring public data to the public?" on Storify</a>]</noscript></div><p>
 Over the course of two days datarescueDC will help to seed, sort, harvest, and
 store valuable and at risk federal government data in [Data Refuge], a project
 facilitated by the University of Pennsylvania's Program in Environmental
