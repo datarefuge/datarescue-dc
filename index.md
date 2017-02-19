@@ -21,8 +21,12 @@ layout: default
 
 **We are at capacity for registrations to the event!** Those that didn't get a chance to sign up should watch this space for future events!  
 
-Learn more about Data Refuge and datarescueDC: on <a href="https://twitter.com/DataRefuge">twitter</a> | <a href="https://www.facebook.com/Data-Refuge-614633048730954">facebook</a> | <a href="https://storify.com/Bayard/why-help-bring-public-data-to-the-public">storify</a> | <a href="https://www.instagram.com/explore/tags/datarescuedc/">instagram</a>
-
+## Learn more about Data Refuge and datarescueDC
+* [twitter](https://twitter.com/DataRefuge)
+* [facebook](https://www.facebook.com/Data-Refuge-614633048730954)
+* [storify](https://storify.com/Bayard/why-help-bring-public-data-to-the-public)
+* [instagram](https://www.instagram.com/explore/tags/datarescuedc)
+ 
 <a class="twitter-timeline"  href="https://twitter.com/hashtag/datarescueDC" data-widget-id="833322168637349888">#datarescueDC Tweets</a>
             <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
   
