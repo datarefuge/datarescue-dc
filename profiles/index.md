@@ -4,12 +4,11 @@ layout: default
 
 **This is a work in progress :) :) :)**
 
-Meh elit esse, id exercitation cliche banh mi heirloom nulla vice.  YOLO labore
-four dollar toast qui accusamus selvage.  Asymmetrical deserunt brooklyn,
-vexillologist air plant squid echo park. Jean shorts lyft swag, readymade edison
-bulb accusamus aesthetic. Bicycle rights cray viral sriracha, lo-fi paleo veniam
-dolore ad man bun la croix swag. Ugh squid banh mi et, lo-fi non culpa food
-truck. Snackwave skateboard schlitz excepteur.
+<img src="{{ site.baseurl }}/images/Jeanne.jpg">
+|
+Jeanne Kramer-Smyth (@spellboundblog), Describer
+http://www.jeannekramersmyth.com
+Jeanne grew up in New York state near a large reservoir that feeds New York City. “Many of the choices of my life have led me to today.” Her father was a birdwatcher and naturalist, so she says she grew up with a very strong connection to nature. Jeanne did her undergraduate degree in environmental science, and went to work in database development. She has a Masters degree in library science with a focus in archives, and then became an archivist with a focus on digital preservation. “As far as what I care about, I would say that I worry about what we’re doing to our planet. I believe in data. I believe in science and facts.” Jeanne says she’s excited that Data Refuge is paying attention to all the different parts of the archiving process and that the web archiving tools are easy to use and that she can continue to use them after this event. “Sometimes at hackathons, it feels like there’s a lot of energy in the room and then everyone goes home. Data Refuge is building the workflow and the tools to support it, and that is very exciting to me.”
 
 <div class="person">
 
