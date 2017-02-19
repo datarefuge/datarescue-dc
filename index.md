@@ -19,7 +19,7 @@ layout: default
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CMAmsh9st7u9p3l2C4Z5k9VZ_PE" width="640" height="480"></iframe>
 </div>
 
-**We are at capacity for our event, thanks to all who signed up!** Watch this space for future events!
+**We are at capacity for registrations to the event!** Those that didn't get a chance to sign up should watch this space for future events!
 
 Over the course of two days datarescueDC will help to seed, sort, harvest, and
 store valuable and at risk federal government data in [Data Refuge], a project
@@ -72,7 +72,7 @@ Check here for [transportation options](https://transportation.georgetown.edu/).
 
 ## Get Involved
 
-**We are at capacity for our event, thanks to all who signed up!** Watch this space for future events!
+**We are at capacity for registrations to the event!** Those that didn't get a chance to sign up should watch this space for future events!
 
 Please look over our [field guide](https://docs.google.com/document/d/1GZCuXlx-3XGO8DCVIfNvQB3V7-WyXSPf6qG8Cse7U-E/edit?usp=sharing) which provides more information about the days' events and our code of conduct.
 
