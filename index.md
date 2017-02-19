@@ -22,7 +22,7 @@ layout: default
 **We are at capacity for registrations to the event!** Those that didn't get a chance to sign up should watch this space for future events!  
             <a class="twitter-timeline"  href="https://twitter.com/hashtag/datarescueDC" data-widget-id="833322168637349888">#datarescueDC Tweets</a>
             <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-            <div class="storify" "text-align:center"><iframe src="//storify.com/Bayard/why-help-bring-public-data-to-the-public/embed?header=false&amp;template=grid" width="100%" height="500" frameborder="no"></iframe><script src="//storify.com/Bayard/why-help-bring-public-data-to-the-public.js?header=false&amp;template=grid"></script><noscript>[<a href="//storify.com/Bayard/why-help-bring-public-data-to-the-public" target="_blank">View the story "Why help bring public data to the public?" on Storify</a>]</noscript></div>
+          <script src="//storify.com/Bayard/why-help-bring-public-data-to-the-public.js?header=false&template=grid"></script><noscript>[<a href="//storify.com/Bayard/why-help-bring-public-data-to-the-public" target="_blank">View the story "Why help bring public data to the public?" on Storify</a>]</noscript>
   
 Over the course of two days datarescueDC will help to seed, sort, harvest, and
 store valuable and at risk federal government data in [Data Refuge], a project
