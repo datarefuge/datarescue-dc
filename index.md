@@ -21,7 +21,7 @@ layout: default
 
 **We are at capacity for registrations to the event!** Those that didn't get a chance to sign up should watch this space for future events!  
 
-## Learn more about Data Refuge and datarescueDC
+#### Learn more about Data Refuge and datarescueDC
 * [twitter](https://twitter.com/DataRefuge)
 * [facebook](https://www.facebook.com/Data-Refuge-614633048730954)
 * [storify](https://storify.com/Bayard/why-help-bring-public-data-to-the-public)
