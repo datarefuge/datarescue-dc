@@ -19,7 +19,11 @@ layout: default
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CMAmsh9st7u9p3l2C4Z5k9VZ_PE" width="640" height="480"></iframe>
 </div>
 
-**We are at capacity for registrations to the event!** Those that didn't get a chance to sign up should watch this space for future events!
+**We are at capacity for registrations to the event!** Those that didn't get a chance to sign up should watch this space for future events!  
+            <a class="twitter-timeline"  href="https://twitter.com/hashtag/datarescueDC" data-widget-id="833322168637349888">#datarescueDC Tweets</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+          
+          
 
 Over the course of two days datarescueDC will help to seed, sort, harvest, and
 store valuable and at risk federal government data in [Data Refuge], a project
