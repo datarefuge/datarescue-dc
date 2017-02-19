@@ -12,17 +12,22 @@ layout: default
   <p>
     <b>Saturday</b>: Lauinger Library, Murray Conference Room, Room 541<br>
     <b>Sunday</b>: Reiss Science Building, Room 103<br><br>
+    
+    <b>We are at capacity for registrations to the event!</b> Those that didn't
+    get a chance to sign up should watch this space for future events!
+
   </p>
 </header>
 
 <div id="map">
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CMAmsh9st7u9p3l2C4Z5k9VZ_PE" width="640" height="480"></iframe>
+  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CMAmsh9st7u9p3l2C4Z5k9VZ_PE" width="640" height="480"></iframe>
 </div>
 
-**We are at capacity for registrations to the event!** Those that didn't get a chance to sign up should watch this space for future events!  
-            <a class="twitter-timeline"  href="https://twitter.com/hashtag/datarescueDC" data-widget-id="833322168637349888">#datarescueDC Tweets</a>
-            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-  
+<div id="#tweets">
+  <a class="twitter-timeline"  href="https://twitter.com/hashtag/datarescueDC" data-widget-id="833322168637349888">#datarescueDC Tweets</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+
 Over the course of two days datarescueDC will help to seed, sort, harvest, and
 store valuable and at risk federal government data in [Data Refuge], a project
 facilitated by the University of Pennsylvania's Program in Environmental
@@ -73,8 +78,6 @@ Sunday's session will include a creative coding and archive-a-thon. Please bring
 Check here for [transportation options](https://transportation.georgetown.edu/). Here is also some [parking information], note that the visitor lot at Georgetown is cash only. There may also be street parking in the neighborhood.
 
 ## Get Involved
-
-**We are at capacity for registrations to the event!** Those that didn't get a chance to sign up should watch this space for future events!
 
 Please look over our [field guide](https://docs.google.com/document/d/1GZCuXlx-3XGO8DCVIfNvQB3V7-WyXSPf6qG8Cse7U-E/edit?usp=sharing) which provides more information about the days' events and our code of conduct.
 

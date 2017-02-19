@@ -1,5 +1,11 @@
 body {
-  margin: 2% 5% 10% 5%;
+  padding: 0px;
+  margin: 0px;
+}
+
+#content {
+  margin: 2% 10% 10% 5%;
+  padding-top: 30px;
   font-size: 12pt;
   font-family: Verdana;
 }
@@ -9,7 +15,7 @@ header {
 }
 
 header img {
-    width: 80%;
+    width: 60%;
 }
 
 header h2 {
@@ -41,9 +47,57 @@ a {
   height: 100% !important;
 }
 
+#tweets {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#bar {
+  top: 0px;
+  position: fixed;
+  background-color: #eeeeee;
+  width: 100%;
+  margin: 0px;
+  padding: 5px 10px; 5px 10px;
+  line-height: 35px;
+  font-size: 16pt;
+}
+
+#bar img {
+  height: 35px;
+  vertical-align: bottom;
+}
+
+.person {
+  padding-top: 25px;
+}
+
+.person img {
+  width: 100%;
+}
+
 @media (min-width: 600px) {
-  body {
-    margin: 2% 20% 10% 20%;
+
+  #content {
+    margin: 2% 15% 10% 15%;
     font-size: 14pt;
   }
+
+  .person .desc {
+    width: 40%;
+    float: left;
+  }
+
+  .person img {
+    margin-left: 5%;
+    width: 45%;
+  }
+
+  .person {
+    clear: both;
+  }
+
 }
+
+
