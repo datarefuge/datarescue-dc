@@ -72,6 +72,7 @@ a {
 
 .person {
   padding-top: 25px;
+  padding-bottom: 25px;
 }
 
 .person img {
@@ -80,16 +81,12 @@ a {
   margin-right: 10px;
 }
 
-.person h3 {
-  margin-top: 0px;
-}
-
 .person figcaption {
   text-align: center;
   font-size: 12pt;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 900px) {
 
   #content {
     margin: 2% 15% 10% 15%;
