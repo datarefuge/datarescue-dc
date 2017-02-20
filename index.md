@@ -22,10 +22,6 @@ layout: default
 <div id="map">
   <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CMAmsh9st7u9p3l2C4Z5k9VZ_PE" width="640" height="480"></iframe>
 </div>
-
-#### Learn more about Data Refuge and datarescueDC
-
-* [instagram](https://www.instagram.com/explore/tags/datarescuedc)
  
 Over the course of two days datarescueDC will help to seed, sort, harvest, and
 store valuable and at risk federal government data in [Data Refuge], a project

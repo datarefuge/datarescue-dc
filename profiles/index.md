@@ -85,6 +85,7 @@ Moshe works as a developer in New York. When a friend sent him an article about 
   <img src="{{ site.baseurl }}/images/markus.jpg">
   <figcaption>
   Photo by Markus Spiske
+  </figcaption>
 </figure>
 <h3>Anonymous Rescuer</h3>
 <p>“From an ethical perspective, this data does not
