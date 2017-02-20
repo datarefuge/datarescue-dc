@@ -76,3 +76,55 @@ Moshe works as a developer in New York. When a friend sent him an article about 
   <h3>J. Montgomery Bagger/Checker</h3>
   <p>“The government may have jumped on the bandwagon of digitization but they have failed the American people. They’ve put out data but they haven’t provided information, which is usable data. As a user, you have to have a high level of sophistication to turn the data into information that is useful to you.”</p>
 </div>
+
+<hr>
+
+<div class="person">
+
+<figure>
+  <img src="{{ site.baseurl }}/images/markus.jpg">
+  <figcaption>
+  Photo by Markus Spiske
+</figure>
+<h3>Anonymous Rescuer</h3>
+<p>“From an ethical perspective, this data does not
+belong to the agency or the administration. It belongs to the citizenry. It’s
+taxpayer-paid and funded. Regardless of the decision of an administration or
+agency makes, people have a right to access the data. This DataRescueDC event is
+going to preserve that right.” In addition to losing access to the data, there
+is a concern that federal funding to support data collection will end.
+Preserving this data now ensures that those collecting the data can pick up
+where they left off in the future. <br> This person says this effort is
+important because “without the data, you can wreck a lot of stuff with good
+intentions. Even the greenest, most environmentally-minded initiative can result
+in problems that you didn’t intend to cause. For example, switching to electric
+cars results in more harmful batteries. Data ensures that when we try to do
+something, we do what we were intending to. Data is the only way that we are
+effective.” (Editorial note: For example, the data can be used in a lifecycle
+analysis to determine whether the benefits outweigh the cost.)
+</p>
+<p>The way this data is used goes beyond scientists and research. It answers questions like “Can I move here and drink the water? Do I know my child’s school wasn’t built upon a site where there used to be a chemical factory? If the data goes away we’ll never find it.”</p>
+<p>If you’re looking to help in this effort, this person suggested to make Freedom of Information Act (FOIA) requests around data that you’re seeking to preserve or that you have trouble accessing. “The government has an obligation to give you the information you seek. Tell the government agencies that you can’t access this information that you have a right to get.”</p>
+
+<hr>
+
+<div class="person">
+  <figure>
+    <img src="{{ site.baseurl }}/images/peignault.jpg">
+    <figcaption>
+      Photo by Peignault Laurent
+    </figcaption>
+  </figure>
+  <h3>Anonymous Rescuer</h3>
+  <p>The data we worked on today is used for critical infrastructure for wastewater treatment, power plants, resilience, emergency planning, water quality, compliance data, and more. Here are some examples of the data volunteers preserved today, and its significance:</p>
+  <ul>
+    <li>Oil storage tanks locations: Incredibly important in an emergency like Katrina -- in that case a tank collapsed and leaked into the surrounding area</li>
+    <li>EPA’s Toxic Release Inventory: logs 27 years of data showing what types of releases are happening in communities, what’s being emitted, and because it tracks over time you can see progress in pollution prevention. (p2 pollution prevention) Or also changes towards the negative, to ensure companies are doing the right thing. Can compare within an industry sector - for mining companies for example, might see one company that is doing better, or companies that are performing better to use as an example for the rest of the industry. Identify best practices in reducing pollution.</li>
+    <li>NEPAssist: Assembles multiple data sets if screening for big project to asses the environmental impact. Has been replicated in a few other countries.</li>
+    <li>Facility Registry Service: connects to energy admin, so you can find out for a power plant for its fuel consumption. Then look at EPA data to see what it’s air emissions are. So helps you compare coal versus gas plants or see toxic release inventory, across multiple agencies.</li>
+    <li>EPA EnviroAtlas: spatial data with 100 layers dealing with land use, land cover, permeable or impermeable surfaces, climate change data, ecosystem and eco region data on habitats in those areas. Current and historical data. People use the Enviroatlas data to compare the impacts of climate change over time, get a better picture nationally of different eco regions. If we didn’t have this resource, we wouldn’t have that insight into the impacts of climate change and habitats on ecosystems.</li>
+  </ul>
+  <p>Data helps you answer questions, such as “How are companies trying to be more sustainable? How much of their waste is recovered or recycled?” Then we can see how manufacturing has advanced to be more environmentally friendly and efficient. Other companies or industries can then learn from that success and implement the same strategies.</p>
+  <p>Data also helps you answer questions like, “What is the life cycle of an industrial facility?” Building a plant, operating and dealing with emissions and chemicals on-site, risks for the community. Take the chemical plant explosion in West, Texas. This data helps explain what might otherwise be under people’s radars. It’s incredibly important information for communities to know. Factories have tended to located themselves in poorer, minority communities, whose residents aren’t as likely to be heard.  We need this environmental data, along with demographic data, health data, and more, to understand the implications and effects these decisions have on the communities.</p>
+
+</div>
