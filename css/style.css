@@ -72,33 +72,34 @@ a {
 
 .person {
   padding-top: 25px;
+  padding-bottom: 25px;
 }
 
 .person img {
   width: 100%;
+  border: 3px solid grey;
+  margin-right: 10px;
 }
 
-@media (min-width: 600px) {
+.person figcaption {
+  text-align: center;
+  font-size: 12pt;
+}
+
+@media (min-width: 900px) {
 
   #content {
     margin: 2% 15% 10% 15%;
     font-size: 14pt;
   }
 
-  .person .desc {
-    width: 40%;
-    float: left;
-  }
-
-  .person img {
-    margin-left: 5%;
-    width: 45%;
-  }
-
-  .person {
+  hr {
     clear: both;
   }
 
+  .person figure {
+    width: 45%;
+    float: left;
+  }
+
 }
-
-
