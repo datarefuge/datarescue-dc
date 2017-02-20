@@ -5,7 +5,9 @@ layout: default
 <h1>DataRescueDC Profiles</h1>
 
 <div class="person">
-  <img src="{{ site.baseurl }}/images/jeanne.jpg">
+  <figure>
+    <img src="{{ site.baseurl }}/images/jeanne.jpg">
+  </figure>
   <h3>Jeanne Kramer-Smyth (<a href="https://twitter.com/spellboundblog">@spellboundblog</a>), Describer</h3>
   <p>
     Jeanne grew up in New York state near a large reservoir that feeds New
@@ -29,7 +31,9 @@ layout: default
 <hr>
 
 <div class="person">
-  <img src="{{ site.baseurl }}/images/Daisy.jpg">
+  <figure>
+    <img src="{{ site.baseurl }}/images/Daisy.jpg">
+  </figure>
   <h3>Daisy Glotzhober,  Team: Bagger and checker</h3>
   <p>Daisy is here today because she’s not happy about results of election - the new admin is hostile to climate change, science, and facts. “Scott Pruitt leading the Environmental Protection Agency (EPA) should be alarming to everyone - not just scientists.” So she wants to contribute to a greater movement.</p>
   <p>Daisy is a data scientist and understands that this data that we’re collecting is an insurance policy. “There are concerns that the current administration could compromise or purge the datasets. Environmental and climate data are particularly vulnerable. Retaining open access to data is critical to advancing scientific mission. We’re focused on maintaining the integrity of the data as a precaution.” This work is important because this is the public’s data. It’s collected and produced by the government but this data is owned by us. “Overall everyone is really passionate, dedicated to the effort, and it’s very inspiring.”</p>
@@ -38,7 +42,9 @@ layout: default
 <hr>
 
 <div class="person">
-  <img src="{{ site.baseurl }}/images/victoria.jpg">
+  <figure>
+    <img src="{{ site.baseurl }}/images/victoria.jpg">
+  </figure>
   <h3>Victoria Levchenko, seeder-sorter and a guide at the event</h3>
   <p>Victoria is in her final year at Georgetown. She studies government and has a heavy focus on computer and data science. She transferred to Georgetown because of an intense interest in federal data. At the time, she was impacted by the idea that “big data is going to change government.” She says, “There’s this mythology that data in the government is centralized and accessible -- that people are able to use it in innovative and cutting-edge ways. But it was disappointing to discover that wasn’t the case.” In other words, there’s a lot of data out there, but it doesn’t come pre-packed or centralized in an easy to use way. Each agency has its own separate data sets. “As someone who likes taking small datasets and working on them, there are so many stories to be told and but [we need] people need to facilitate that happening.”</p>
   <p>When Trump was elected she noticed others talking about how afraid they were about the EPA shutting down and other impacts. “I realized there is so much data that could be lost - which means that our history would be lost.” So when she heard about DataRefuge and DataRescueDC she was eager to join in and contribute as a volunteer and as a guide. “Data Refuge is wonderful because it’s doing something that the government can’t - centralizing this data.”</p>
@@ -48,7 +54,9 @@ layout: default
 <hr>
 
 <div class="person">
-  <img src="{{ site.baseurl }}/images/moshe.jpg">
+  <figure>
+    <img src="{{ site.baseurl }}/images/moshe.jpg">
+  </figure>
   <h3>Moshe, Harvester</h3>
   <p>Mood: Mood/atmosphere: Cheerful, engaged, a little bit confused<br>
 Moshe works as a developer in New York. When a friend sent him an article about a similar data rescue event in Berkley, he knew he wanted to get involved. “I’ve been looking to use my skills as a developer to do something useful given the hostility of the current administration.I know some people down here and got in touch via Slack to come down here.</p>
@@ -61,7 +69,9 @@ Moshe works as a developer in New York. When a friend sent him an article about 
 <hr>
 
 <div class="person">
-  <img src="{{ site.baseurl }}/images/susan.jpg">
+  <figure>
+    <img src="{{ site.baseurl }}/images/susan.jpg">
+  </figure>
   <h3>Susan Yount, CPA, civil servant, seeder and sorter</h3>
   <p>Susan Yount became a crusader for open data in 2009 when she came to DC to work on financial transparency as a civil servant. She fondly remembers the excitement around the Obama administration’s push for transparency and openness through the Open Government Initiative, which required federal agencies to release its data online. “What felt very vibrant to me was the White House’s involvement in data-they seemed very engaged. It was very exciting to think of the government doing something cutting-edge.” In addition to setting data standards for financial information, Susan also supported federal agencies creating repositories for open data.</p>
   <p>The availability of this open data concerns her most, she says, because it forms a vital aspect of a functioning democracy and effective governance. “You cannot make rational decisions about governing without data. Otherwise it’s just guesses and opinions.” She’s happy to lend an afternoon a month to Data Refuge because, “someday it could be my data set.”</p>
@@ -70,7 +80,9 @@ Moshe works as a developer in New York. When a friend sent him an article about 
 <hr>
 
 <div class="person">
-  <img src="{{ site.baseurl }}/images/baggers.jpg">
+  <figure>
+    <img src="{{ site.baseurl }}/images/baggers.jpg">
+  </figure>
   <h3>Dina M. Bagger/Checker</h3>
   <p>“90% of the time spent working with data is cleaning the data, not analyzing it. As a user, now I have to understand what the data are and clean it. There’s so much talk of citizen scientists, but unless it’s your job to crawl through and clean these data sets, I don’t see people using these datasets efficiently. It’s a larger struggle within the data community. Times are different - we have to think differently about how the government should present data to its citizens.”</p>
   <h3>J. Montgomery Bagger/Checker</h3>
@@ -80,32 +92,30 @@ Moshe works as a developer in New York. When a friend sent him an article about 
 <hr>
 
 <div class="person">
-
-<figure>
-  <img src="{{ site.baseurl }}/images/markus.jpg">
-  <figcaption>
-  Photo by Markus Spiske
-  </figcaption>
-</figure>
-<h3>Anonymous Rescuer</h3>
-<p>“From an ethical perspective, this data does not
-belong to the agency or the administration. It belongs to the citizenry. It’s
-taxpayer-paid and funded. Regardless of the decision of an administration or
-agency makes, people have a right to access the data. This DataRescueDC event is
-going to preserve that right.” In addition to losing access to the data, there
-is a concern that federal funding to support data collection will end.
-Preserving this data now ensures that those collecting the data can pick up
-where they left off in the future. <br> This person says this effort is
-important because “without the data, you can wreck a lot of stuff with good
-intentions. Even the greenest, most environmentally-minded initiative can result
-in problems that you didn’t intend to cause. For example, switching to electric
-cars results in more harmful batteries. Data ensures that when we try to do
-something, we do what we were intending to. Data is the only way that we are
-effective.” (Editorial note: For example, the data can be used in a lifecycle
-analysis to determine whether the benefits outweigh the cost.)
-</p>
-<p>The way this data is used goes beyond scientists and research. It answers questions like “Can I move here and drink the water? Do I know my child’s school wasn’t built upon a site where there used to be a chemical factory? If the data goes away we’ll never find it.”</p>
-<p>If you’re looking to help in this effort, this person suggested to make Freedom of Information Act (FOIA) requests around data that you’re seeking to preserve or that you have trouble accessing. “The government has an obligation to give you the information you seek. Tell the government agencies that you can’t access this information that you have a right to get.”</p>
+  <figure>
+    <img src="{{ site.baseurl }}/images/markus.jpg">
+    <figcaption>Photo by Markus Spiske</figcaption>
+  </figure>
+  <h3>Anonymous Rescuer</h3>
+  <p>“From an ethical perspective, this data does not
+  belong to the agency or the administration. It belongs to the citizenry. It’s
+  taxpayer-paid and funded. Regardless of the decision of an administration or
+  agency makes, people have a right to access the data. This DataRescueDC event is
+  going to preserve that right.” In addition to losing access to the data, there
+  is a concern that federal funding to support data collection will end.
+  Preserving this data now ensures that those collecting the data can pick up
+  where they left off in the future. <br> This person says this effort is
+  important because “without the data, you can wreck a lot of stuff with good
+  intentions. Even the greenest, most environmentally-minded initiative can result
+  in problems that you didn’t intend to cause. For example, switching to electric
+  cars results in more harmful batteries. Data ensures that when we try to do
+  something, we do what we were intending to. Data is the only way that we are
+  effective.” (Editorial note: For example, the data can be used in a lifecycle
+  analysis to determine whether the benefits outweigh the cost.)
+  </p>
+  <p>The way this data is used goes beyond scientists and research. It answers questions like “Can I move here and drink the water? Do I know my child’s school wasn’t built upon a site where there used to be a chemical factory? If the data goes away we’ll never find it.”</p>
+  <p>If you’re looking to help in this effort, this person suggested to make Freedom of Information Act (FOIA) requests around data that you’re seeking to preserve or that you have trouble accessing. “The government has an obligation to give you the information you seek. Tell the government agencies that you can’t access this information that you have a right to get.”</p>
+</div>
 
 <hr>
 

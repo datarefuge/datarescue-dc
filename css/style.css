@@ -84,6 +84,11 @@ a {
   margin-top: 0px;
 }
 
+.person figcaption {
+  text-align: center;
+  font-size: 12pt;
+}
+
 @media (min-width: 600px) {
 
   #content {
@@ -95,11 +100,9 @@ a {
     clear: both;
   }
 
-  .person img {
+  .person figure {
     width: 45%;
     float: left;
   }
 
 }
-
-
