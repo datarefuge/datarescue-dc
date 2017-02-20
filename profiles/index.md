@@ -6,9 +6,7 @@ layout: default
 
 <div class="person">
   <div class="img">
-  <div class="center">
-<img src="{{ site.baseurl }}/images/jeanne.jpg">
-  </div>
+    <center><img src="{{ site.baseurl }}/images/jeanne.jpg"></center>
   </div>
   </div>
 **Jeanne Kramer-Smyth**<br> 
